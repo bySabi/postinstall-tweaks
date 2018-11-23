@@ -5,13 +5,13 @@ const _module = [
     {
         path: "./node_modules/react/package.json",
         update: {
-            "version": "16.7.100"
+            "version": "16.7.99"
         }
     },
     {
         path: "./node_modules/react-native/package.json",
         update: {
-            "version": "0.58.100"
+            "version": "0.58.99"
         }
     }
 ];
