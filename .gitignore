@@ -1,0 +1,12 @@
+.
+node_modules/**/*
+src/__snapshots__
+
+*.iml
+.idea
+.expo
+
+build
+
+
+yarn-error.log
