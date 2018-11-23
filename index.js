@@ -1,4 +1,4 @@
-const editJsonFile = require("edit-json-file");
+const editJsonFile = require('edit-json-file');
 const fs = require('fs');
 
 const _module = [
